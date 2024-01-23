@@ -3,6 +3,8 @@
 Spring Cloud Gateway MVC 는 뭐지?...
 
 또 공부할게 생겼네...
+확인사항 : Spring Cloud Gateway MVC 는 Tomcat으로 뜸.
+           기존은                      Netty로 뜸
 
 ## 공식문서
 - https://docs.spring.io/spring-cloud-gateway/reference/spring-cloud-gateway-server-mvc/starter.html
