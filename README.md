@@ -14,7 +14,7 @@ Spring Cloud Gateway MVC 는 뭐지?...
 - https://sandipchitale.medium.com/spring-cloud-gateway-server-mvc-fn-6c8821395f22
 - https://www.linkedin.com/pulse/spring-cloud-gateway-servermvcfn-sandip-chitale-tiwic?trk=article-ssr-frontend-pulse_more-articles_related-content-card
 
-## 예제 참고
+## 참고 예제
 - https://github.com/spencergibb/spring-cloud-gateway-mvc-sample
 
 
